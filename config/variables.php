@@ -13,7 +13,7 @@
     "livePreview" => "https://demos.themeselection.com/materio-bootstrap-html-laravel-admin-template-free/demo/",
     "productPage" => "https://themeselection.com/item/materio-free-bootstrap-html-laravel-admin-template/",
     "productPagePro" => "https://themeselection.com/item/materio-bootstrap-laravel-admin-template/",
-    "support" => "https://github.com/themeselection/materio-bootstrap-html-laravel-admin-template-free/issues",
+    "support" => "https://github.com/chags/laravel-10-dashBoard-materio/issues",
     "moreThemes" => "https://themeselection.com/",
     "documentation" => "https://demos.themeselection.com/materio-bootstrap-html-admin-template/documentation",
     "repository" => "https://github.com/themeselection/materio-bootstrap-html-laravel-admin-template-free",
@@ -24,5 +24,6 @@
     "twitterUrl" => "https://twitter.com/Theme_Selection",
     "githubUrl" => "https://github.com/themeselection",
     "dribbbleUrl" => "https://dribbble.com/themeselection",
-    "instagramUrl" => "https://www.instagram.com/themeselection/"
+    "instagramUrl" => "https://www.instagram.com/themeselection/",
+    "laravelMaterio" => "https://github.com/chags/laravel-10-dashBoard-materio"
   ];
