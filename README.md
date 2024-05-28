@@ -115,7 +115,7 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Support 👨‍💻
 
-We use GitHub issues as support tickets to manage Item support.
+Use Github to ask questions and resolve doubts, we have no other channel that can help. The code is at your own risk.
 
 ## License ©
 
